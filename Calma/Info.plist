@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>TiroTelugu-Italic.ttf</string>
+		<string>TiroTelugu-Regular.ttf</string>
+		<string>SFCompactText-Bold.otf</string>
+		<string>SFCompactText-Semibold.otf</string>
+		<string>SFCompactText-Regular.otf</string>
+		<string>SFCompactText-RegularItalic.otf</string>
+		<string>SFCompactText-MediumItalic.otf</string>
+		<string>SFCompactText-Medium.otf</string>
+		<string>SFCompactText-Light.otf</string>
+		<string>SFCompactText-LightItalic.otf</string>
+		<string>SFCompactText-Heavy.otf</string>
+		<string>SFCompactText-HeavyItalic.otf</string>
+		<string>SFCompactText-BoldItalic.otf</string>
+	</array>
+</dict>
+</plist>
